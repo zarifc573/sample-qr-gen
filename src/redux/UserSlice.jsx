@@ -1,4 +1,4 @@
-// redux/UserSlice.js or redux/UserSlice.ts
+
 import { createSlice } from '@reduxjs/toolkit';
 
 const userSlice = createSlice({
